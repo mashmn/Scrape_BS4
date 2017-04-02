@@ -1,2 +1,2 @@
 # Scrape_BS4
-Scraping HTML using Beautiful Soup... Lazy try
+Scraping HTML using Beautiful Soup... A lazy try
